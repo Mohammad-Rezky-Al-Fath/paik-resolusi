@@ -1,2 +1,2 @@
 # paik-resolusi
-Deskripsi resolusi untuk uprade skill
+resolusi perbaiki pola hidup
