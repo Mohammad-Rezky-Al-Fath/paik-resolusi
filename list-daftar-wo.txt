@@ -7,3 +7,7 @@ Selasa:
   - Chess
   - Shoulder
   - Tricep
+Rabu:
+  - Leg
+Kamis:
+  - Rest
