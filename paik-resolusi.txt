@@ -1,0 +1,10 @@
+Kurangi rokok secara bertahap:
+  - pagi = 0
+  - Siang = 5
+  - Malam = 3
+
+Konsisten gaya hidup sehat:
+  - Workout minimal 2/3 x seminggu
+  - Hindari makanan tinggi minyak
+  - Hindari minuman tinggi gula
+  
