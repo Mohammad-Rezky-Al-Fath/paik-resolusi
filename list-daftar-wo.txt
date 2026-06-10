@@ -1,0 +1,13 @@
+Jadwal Wo Seminggu:
+Senin:
+  - Back
+  - Bicep
+  - Traps
+Selasa:
+  - Chess
+  - Shoulder
+  - Tricep
+Rabu:
+  - Leg
+Kamis:
+  - Rest
